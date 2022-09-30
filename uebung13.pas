@@ -9,7 +9,10 @@ Begin
         j := i;
         Repeat 
             If (i + j = n) Then
-                writeln(i, ' ,', j);
+                Begin
+                    writeln(i, ' ,', j);
+                    writeln(j, ' ,', i);
+                End;
             j := j + 1;
         Until j = n+1; {mit Null als Antwort}     
             i := i + 1;

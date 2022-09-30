@@ -23,7 +23,7 @@ Begin
                 End;
         End;
 
-    If (Flag) Then
+    If (Flag and (n <> 1)) Then
         writeln(n, ' ist eine Primzahl')
     Else
         writeln(n, ' ist keine Primzahl')
