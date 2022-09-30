@@ -1,3 +1,8 @@
+{Übung 4 (Test.pas): Schreiben Sie ein Programm, das nach Eingabe zweier ganzen Zahlen vom
+Benutzer, die Summe, die Differenz, das Produkt und den ganzzahligen Quotienten anfragt. Das
+Programm soll dann ausgeben, welche Antworte richtig oder falsch sind. (Bei falscher Lösung muss
+das Programm die richtige Lösung ausgeben).}
+
 Program uebung4.pas;
 Var
 a,b,b_sum,b_dif,b_pro,b_quo: Integer;

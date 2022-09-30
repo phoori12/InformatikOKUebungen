@@ -1,3 +1,5 @@
+{Übung 3 (Fakultaet.pas): Schreiben Sie ein Programm, das n! berechnet und ausgibt. 0!= 1}
+
 Program uebung3.pas;
 var
 n: Integer;

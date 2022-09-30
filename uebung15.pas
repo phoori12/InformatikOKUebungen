@@ -1,3 +1,7 @@
+{Übung 15 (MaxMin.pas): Schreiben Sie ein Programm, das n ganze Zahlen einliest und dann die
+größte Zahl und die kleinste Zahl sowie die Spannweite zwischen diesen beiden Zahlen ausgibt. Die
+Spannweite ist die Differenz zwischen der größten und der kleinsten Zahl.}
+
 Program uebung15.pas;
 Var
 i, n, nMax, nMin, buff: Integer;

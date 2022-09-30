@@ -1,3 +1,7 @@
+{reellen Zahlen berechnet und mit zwei Nachkommastellen ausgibt.
+Übung 10 (Fibonacci.pas): Setzen Sie folgende Folge fort: 1, 2, 3, 5, 8, 13, __, __, … . Schreiben
+Sie ein Pascalprogramm, das die ersten n Folgenglieder ausgibt.}
+
 Program uebung10.pas;
 Var
 n, i, n_jzt,n_vor1, n_vor2: Integer;

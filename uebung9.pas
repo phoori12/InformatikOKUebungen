@@ -1,3 +1,6 @@
+{Übung 9 (Mittelwert.pas): Schreiben Sie ein Programm, das den Mittelwert von n eingegebenen
+reellen Zahlen berechnet und mit zwei Nachkommastellen ausgibt.}
+
 Program uebung8.pas;
 Var 
 n: Integer;

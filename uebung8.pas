@@ -1,3 +1,6 @@
+{Übung 8 (Geld.pas): Schreiben Sie ein Programm, das nach Eingabe eines Geldbetrags in € die
+Scheine bzw. Münzen ausgibt, die diesen Betrag darstellen.}
+
 Program uebung7.pas;
 {Schein: 500, 200, 100, 50, 20, 10,5 }
 {Muenzen: 2,1, 0.50, 0.20, 0.10, 0.05, 0.02, 0.01}

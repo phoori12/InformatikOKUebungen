@@ -1,3 +1,6 @@
+{Übung 13 (Zahlenpaare.pas): Schreiben Sie ein Programm, das eine natürliche Zahl n einliest und
+dann alle Zahlenpaare ausgibt, deren Summe gleich der Zahl n ist}
+
 Program uebung13.pas;
 Var
 n, i, j: Integer;

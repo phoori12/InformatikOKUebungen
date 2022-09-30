@@ -1,3 +1,6 @@
+{Übung 6 (Summe.pas): Schreiben Sie ein Programm, das die Summe der ersten 25 ungeraden
+Zahlen, die durch 3 teilbar sind, berechnet}
+
 Program uebung6.pas;
 Var
 i,x, sum:Integer;

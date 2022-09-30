@@ -1,3 +1,7 @@
+{Übung 5 (Einkaufen.pas): Schreiben Sie ein Programm, das Ihnen beim Einkaufen helfen soll. Das
+Programm fragt Sie, wie viel Geld Sie dabeihaben und wie viel eine Ananas kostet. In der Ausgabe
+soll erscheinen, wie viel Ananas Sie kaufen können und wie viel Geld dann noch übrig ist.}
+
 Program uebung5.pas;
 Var
 g: Real;

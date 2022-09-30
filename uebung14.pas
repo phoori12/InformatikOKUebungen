@@ -1,3 +1,6 @@
+{Übung 14 (Primzahl.pas): Schreiben Sie ein Programm, das eine ganze positive Zahl einliest und
+überprüft, ob die Zahl eine Primzahl ist.}
+
 Program uebung14.pas;
 Var 
 n, i: Integer;

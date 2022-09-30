@@ -1,3 +1,8 @@
+{Übung 1 (Anfangsbuchstabe.pas): Schreiben Sie ein Programm, das nach einem Namen und
+einem Vornamen fragt. Das Programm gibt dann den Anfangsbuchstaben des Namens und des
+Vornamens wie folgt aus: Der Name beginnt mit: ...
+                         Der Vorname beginnt mit: ...}
+
 Program uebung1;
 VAR
 vorname: char;

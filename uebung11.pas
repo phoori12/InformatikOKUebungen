@@ -1,3 +1,7 @@
+{Übung 11 (Collatz.pas): Schreiben Sie ein Pascal-Programm, das eine natürliche Zahl n einliest und
+diese Zahl nach dem Collatz-Verfahren umrechnet, bis sie 1 wird. Das Programm gibt alle
+Zwischenwerte und die Anzahl der Iterationen aus, sobald die Zahl den Wert 1 erreicht hat.}
+
 Program uebung11.pas;
 Var
 n: Real;

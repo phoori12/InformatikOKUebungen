@@ -1,3 +1,6 @@
+{Übung 7 (GGT.pas): Schreiben Sie ein Programm, das den größten gemeinsamen Teiler (ggT) von
+zwei natürlichen Zahlen berechnet und ausgibt.}
+
 Program uebung7.pas;
 Var
 n1,n2, nMax, ggT, i: Integer;
