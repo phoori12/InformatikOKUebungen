@@ -1,3 +1,5 @@
+{Wandelt n in binarzahl um}
+
 Program uebung16.pas;
 uses math;
 Var
