@@ -9,7 +9,7 @@ Begin
     readln(n);
     i := 0;
 
-    {Maximale Potent finden}
+    {Maximale Potenz finden}
     Repeat
         temp := 2**i;
         i := i + 1;
