@@ -17,7 +17,6 @@ Begin
     pMax := i - 1;
     i := pMax;
     temp := n;
-    writeln(pMax);
     while i >= 0 Do
     Begin
         If (temp < 2**i) Then
