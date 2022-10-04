@@ -1,14 +1,13 @@
-{Wandelt n in binarzahl um}
+{Wandelt Decimalzahl in binarzahl um}
 
 Program uebung16.pas;
 uses math;
 Var
-n, i, pMax, temp: Integer;
+n, i, pMax, temp: Longint;
 Begin 
     write('Geben Sie n ein: ');
     readln(n);
     i := 0;
-
     {Maximale Potenz finden}
     Repeat
         temp := 2**i;
